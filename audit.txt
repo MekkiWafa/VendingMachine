@@ -1,0 +1,23 @@
+2021-11-21T17:36:59.360482400 : Item LAY'S CHIPS IS PURCHASED.
+2021-11-21T17:41:12.918559300 : Item SNICKERS BAR IS PURCHASED.
+2021-11-21T17:47:16.019013600 : Item LAY'S CHIPS IS PURCHASED.
+2021-11-21T18:07:49.327453500 : Item SNICKERS BAR IS PURCHASED.
+2021-11-21T18:08:17.708718600 : Item LAY'S CHIPS IS PURCHASED.
+2021-11-21T18:12:02.678519500 : Item COKE IS PURCHASED.
+2021-11-21T18:27:39.601771 : Insufficient funds to purchase this item LAY'S CHIPS  for 2.10. Your current funds is 2.00
+2021-11-21T18:45:24.664564800 : Item COKE is purchased at Price : 1.99.Change : 10 of QUARTER, 1 of DIME, 0 of NICKEL, 3 of PENNY2021-11-21T20:04:53.082960400 : Item COKE is purchased at Price : 1.99.Change : 12 of QUARTER, 0 of DIME, 0 of NICKEL, 1 of PENNY
+2021-11-21T20:07:54.006105100 : Item COKE is purchased at Price : 1.99.Change : 32 of QUARTER, 0 of DIME, 0 of NICKEL, 1 of PENNY
+2021-11-21T20:12:08.384256500 : Item LAY'S CHIPS is purchased at Price : 2.10.Change : 31 of QUARTER, 1 of DIME, 1 of NICKEL, 0 of PENNY
+2021-11-21T23:54:17.683583500 : Item LAY'S CHIPS is purchased at Price : 2.10.Change : 35 of QUARTER, 1 of DIME, 1 of NICKEL, 0 of PENNY
+2021-11-22T17:10:05.715675600 : Item LAY'S CHIPS is purchased at Price : 2.10.Change : 0 of QUARTER, 0 of DIME, 0 of NICKEL, 0 of PENNY
+2021-11-22T21:59:52.237485 : Insufficient funds to purchase this item LAY'S CHIPS  for 2.10. Your current funds is 1.00
+2021-11-22T22:00:07.382234200 : Item SNICKERS BAR is purchased at Price : 1.59.Change : 53 of QUARTER, 1 of DIME, 1 of NICKEL, 1 of PENNY
+2021-11-22T22:22:52.023734700 : Item SNICKERS BAR is purchased at Price : 1.59.Change : 41 of QUARTER, 1 of DIME, 1 of NICKEL, 1 of PENNY
+2021-11-22T22:38:59.366236800 : Item LAY'S CHIPS is purchased at Price : 2.10.Change : 11 of QUARTER, 1 of DIME, 1 of NICKEL, 0 of PENNY
+2021-11-23T09:34:45.653185600 : Item SNICKERS BAR is purchased at Price : 1.59.Change : 33 of QUARTER, 1 of DIME, 1 of NICKEL, 1 of PENNY
+2021-11-30T14:02:42.418454200 : Insufficient funds to purchase this item LAY'S CHIPS  for 2.10. Your current funds is 2.00
+2021-11-30T14:11:00.374361100 : Item SNICKERS BAR is purchased at Price : 1.59.Change : 13 of QUARTER, 1 of DIME, 1 of NICKEL, 1 of PENNY
+2021-11-30T14:12:56.548460 : Item TWIX BAR is purchased at Price : 1.89.Change : 0 of QUARTER, 1 of DIME, 0 of NICKEL, 1 of PENNY
+2021-11-30T14:13:47.129475900 : Item COKE is purchased at Price : 1.99.Change : 0 of QUARTER, 2 of DIME, 0 of NICKEL, 3 of PENNY
+2022-02-24T11:55:00.432371200 : Item WATER is purchased at Price : 1.45.Change : 34 of QUARTER, 0 of DIME, 1 of NICKEL, 0 of PENNY
+2022-02-24T11:55:28.952420300 : Item SNICKERS BAR is purchased at Price : 1.59.Change : 1 of QUARTER, 1 of DIME, 1 of NICKEL, 1 of PENNY
